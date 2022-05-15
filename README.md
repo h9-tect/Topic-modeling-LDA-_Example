@@ -10,3 +10,4 @@ That’s why many are excited about the implications artificial intelligence cou
 By using topic analysis models, businesses are able to offload simple tasks onto machines instead of overloading employees with too much data. Just imagine the time your team could save and spend on more important tasks, if a machine was able to sort through endless lists of customer surveys or support tickets every morning.
 
 ![image alt text](https://github.com/h9-tect/Topic-modeling-LDA-_Example/blob/main/LDA_pic.png)
+[link text](https://youtu.be/mWYiWmBXzp8 "Topic modeling by LDA")
