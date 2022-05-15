@@ -8,3 +8,4 @@ You’ve probably been hearing a lot about artificial intelligence, along with t
 That’s why many are excited about the implications artificial intelligence could have on their day-to-day tasks, as well as on businesses as a whole. AI-powered text analysis uses a wide variety of methods or algorithms to process language naturally, one of which is topic analysis – used to automatically detect topics from texts. 
 
 By using topic analysis models, businesses are able to offload simple tasks onto machines instead of overloading employees with too much data. Just imagine the time your team could save and spend on more important tasks, if a machine was able to sort through endless lists of customer surveys or support tickets every morning.
+https://youtu.be/mWYiWmBXzp8
