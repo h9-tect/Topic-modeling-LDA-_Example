@@ -1,0 +1,5 @@
+NLTK 
+gensim
+numpy
+pandas
+pyLDAvis
